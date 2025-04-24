@@ -11,5 +11,9 @@ npm install node-telegram-bot-api
 
 npm install express
 
-node 
+git clone https://github.com/VPSHOZOO/TIKTOK-BAN
+
+cd TIKTOK-BAN
+
+node BAN.js
 
